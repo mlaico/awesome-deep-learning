@@ -24,6 +24,9 @@
 13. [Deep Image (the 6.0% paper)] (http://arxiv.org/abs/1501.02876)
 14. [Delving Deep into Rectifiers (the 4.94% paper)] (http://arxiv-web3.library.cornell.edu/pdf/1502.01852v1.pdf)
 15. [Batch Normalization (the 4.8% paper)] (http://arxiv.org/abs/1502.03167)
+16. [Text Understanding From Scratch] (http://arxiv.org/abs/1502.01710)
+17. [From Pixels to Torques] (http://arxiv.org/abs/1502.02251)
+18. [Evolutionary Artificial Neural Network Based on Chemical Reaction Optimization] (http://arxiv.org/abs/1502.00193)
 
 
 ### Free Online Books
