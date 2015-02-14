@@ -1,3 +1,23 @@
+### Papers
+
+1.  [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+2.  [Using Very Deep Autoencoders for Content Based Image Retrieval](http://www.cs.toronto.edu/~hinton/absps/esann-deep-final.pdf)
+3.  [Learning Deep Architectures for AI](http://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf)
+4.  [CMU’s list of papers](http://deeplearning.cs.cmu.edu/)
+5.  [Neural Networks for Named Entity
+     Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stanford.edu/~socherr/pa4-ner.zip)
+6. [Training tricks by YB](http://www.iro.umontreal.ca/~bengioy/papers/YB-tricks.pdf)
+7. [Geoff Hinton's reading list (all papers)] (http://www.cs.toronto.edu/~hinton/deeprefs.html)
+8. [Memory Networks] (http://arxiv.org/abs/1410.3916)
+9. [Show and Tell: A Neural Image Caption Generator] (http://arxiv.org/abs/1411.4555)
+10. [Show, Attend, and Tell: Neural Image Caption Generation with Visual Attention] (http://arxiv.org/abs/1502.03044)
+11. [Neural Turing Machines] (http://arxiv.org/pdf/1410.5401v1.pdf)
+12. [Learning To Execute] (http://arxiv.org/abs/1410.4615)
+13. [Deep Image (the 6.0% paper)] (http://arxiv.org/abs/1501.02876)
+14. [Delving Deep into Rectifiers (the 4.94% paper)] (http://arxiv-web3.library.cornell.edu/pdf/1502.01852v1.pdf)
+15. [Batch Normalization (the 4.8% paper)] (http://arxiv.org/abs/1502.03167)
+
+
 ### Free Online Books
 
 1.  [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (01/01/2015)
@@ -38,16 +58,7 @@
 13.  [Unsupervised Deep Learning - Stanford](http://web.stanford.edu/class/cs294a/handouts.html) by Andrew Ng in Stanford (2011)
 14.  [Natural Language Processing] (http://web.stanford.edu/class/cs224n/handouts/) By Chris Manning in Stanford
 
-### Papers
 
-1.  [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
-2.  [Using Very Deep Autoencoders for Content Based Image Retrieval](http://www.cs.toronto.edu/~hinton/absps/esann-deep-final.pdf)
-3.  [Learning Deep Architectures for AI](http://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf)
-4.  [CMU’s list of papers](http://deeplearning.cs.cmu.edu/)
-5.  [Neural Networks for Named Entity
-Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stanford.edu/~socherr/pa4-ner.zip)
-6. [Training tricks by YB](http://www.iro.umontreal.ca/~bengioy/papers/YB-tricks.pdf)
-7. [Geoff Hinton's reading list (all papers)] (http://www.cs.toronto.edu/~hinton/deeprefs.html)
 
 ### Tutorials
 
