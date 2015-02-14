@@ -157,7 +157,11 @@
 15. [A chess AI that learns to play chess using deep learning.](https://github.com/erikbern/deep-pink)
 16. [Reproducing the results of "Playing Atari with Deep Reinforcement Learning" by DeepMind] (https://github.com/kristjankorjus/Replicating-DeepMind)
 
-
+### Not Really 'Deep' Learning
+1. [Image Kernels Explained Visually] (http://setosa.io/ev/image-kernels/)
+2. [Explained Visually] (http://setosa.io/ev/)
+3. [Visualizing Algorithms] (http://bost.ocks.org/mike/algorithms/)
+ 
 
 -----
 ### Contributing
