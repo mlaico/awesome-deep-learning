@@ -1,9 +1,11 @@
 ### Blog Posts
+
 1. [Ilya Sutskever: A Brief Overview of Deep Learning] (http://yyue.blogspot.ca/2015/01/a-brief-overview-of-deep-learning.html)
-2. [Andrej Karpathy: On surpassing human-level performance on ImageNet] (https://plus.google.com/+AndrejKarpathy/posts/dwDNcBuWTWf)
-3. [Tomasz Malisiewicz: From Feature Descriptors to Deep Learning] (http://quantombone.blogspot.com/2015/01/from-feature-descriptors-to-deep.html)
-4. [Christopher Olah: Visualizing Representations: Deep Learning and Human Beings] (http://colah.github.io/posts/2015-01-Visualizing-Representations/)
-5. [NIKHIL BUDUMA: A Deep Dive into Recurrent Neural Nets] (http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/)
+2. [Tomasz Malisiewicz: From Feature Descriptors to Deep Learning] (http://quantombone.blogspot.com/2015/01/from-feature-descriptors-to-deep.html)
+3. [Christopher Olah: Visualizing Representations: Deep Learning and Human Beings] (http://colah.github.io/posts/2015-01-Visualizing-Representations/)
+4. [NIKHIL BUDUMA: A Deep Dive into Recurrent Neural Nets] (http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/)
+5. [What I Learned From Competing Against A ConvNet On ImageNet] (http://karpathy.github.io/2014/09/02/what-i-learned-from-competing-against-a-convnet-on-imagenet/)
+6. [Andrej Karpathy: On surpassing human-level performance on ImageNet] (https://plus.google.com/+AndrejKarpathy/posts/dwDNcBuWTWf)
 
 
 ### Papers
@@ -158,6 +160,7 @@
 16. [Reproducing the results of "Playing Atari with Deep Reinforcement Learning" by DeepMind] (https://github.com/kristjankorjus/Replicating-DeepMind)
 
 ### Not Really 'Deep' Learning
+
 1. [Image Kernels Explained Visually] (http://setosa.io/ev/image-kernels/)
 2. [Explained Visually] (http://setosa.io/ev/)
 3. [Visualizing Algorithms] (http://bost.ocks.org/mike/algorithms/)
