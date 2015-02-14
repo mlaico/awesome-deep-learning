@@ -3,9 +3,10 @@
 1. [Ilya Sutskever: A Brief Overview of Deep Learning] (http://yyue.blogspot.ca/2015/01/a-brief-overview-of-deep-learning.html)
 2. [Tomasz Malisiewicz: From Feature Descriptors to Deep Learning] (http://quantombone.blogspot.com/2015/01/from-feature-descriptors-to-deep.html)
 3. [Christopher Olah: Visualizing Representations: Deep Learning and Human Beings] (http://colah.github.io/posts/2015-01-Visualizing-Representations/)
-4. [NIKHIL BUDUMA: A Deep Dive into Recurrent Neural Nets] (http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/)
-5. [What I Learned From Competing Against A ConvNet On ImageNet] (http://karpathy.github.io/2014/09/02/what-i-learned-from-competing-against-a-convnet-on-imagenet/)
+4. [Nikhil Buduma: A Deep Dive into Recurrent Neural Nets] (http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/)
+5. [Andrej Karpathy: What I Learned From Competing Against A ConvNet On ImageNet] (http://karpathy.github.io/2014/09/02/what-i-learned-from-competing-against-a-convnet-on-imagenet/)
 6. [Andrej Karpathy: On surpassing human-level performance on ImageNet] (https://plus.google.com/+AndrejKarpathy/posts/dwDNcBuWTWf)
+7. [Andrej Karpathy: Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 
 
 ### Papers
@@ -84,6 +85,7 @@
 7.  [Neural Networks for Matlab](http://uk.mathworks.com/help/pdf_doc/nnet/nnet_ug.pdf)
 8.  [Using convolutional neural nets to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
 9.  [Torch7 Tutorials](http://code.madbits.com/wiki/doku.php)
+
 
 
 
