@@ -1,3 +1,11 @@
+### Blog Posts
+1. [Ilya Sutskever: A Brief Overview of Deep Learning] (http://yyue.blogspot.ca/2015/01/a-brief-overview-of-deep-learning.html)
+2. [Andrej Karpathy: On surpassing human-level performance on ImageNet] (https://plus.google.com/+AndrejKarpathy/posts/dwDNcBuWTWf)
+3. [Tomasz Malisiewicz: From Feature Descriptors to Deep Learning] (http://quantombone.blogspot.com/2015/01/from-feature-descriptors-to-deep.html)
+4. [Christopher Olah: Visualizing Representations: Deep Learning and Human Beings] (http://colah.github.io/posts/2015-01-Visualizing-Representations/)
+5. [NIKHIL BUDUMA: A Deep Dive into Recurrent Neural Nets] (http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/)
+
+
 ### Papers
 
 1.  [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
@@ -8,9 +16,9 @@
      Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stanford.edu/~socherr/pa4-ner.zip)
 6. [Training tricks by YB](http://www.iro.umontreal.ca/~bengioy/papers/YB-tricks.pdf)
 7. [Geoff Hinton's reading list (all papers)] (http://www.cs.toronto.edu/~hinton/deeprefs.html)
-8. [Memory Networks] (http://arxiv.org/abs/1410.3916)
-9. [Show and Tell: A Neural Image Caption Generator] (http://arxiv.org/abs/1411.4555)
-10. [Show, Attend, and Tell: Neural Image Caption Generation with Visual Attention] (http://arxiv.org/abs/1502.03044)
+8. [Show and Tell: A Neural Image Caption Generator] (http://arxiv.org/abs/1411.4555)
+9. [Show, Attend, and Tell: Neural Image Caption Generation with Visual Attention] (http://arxiv.org/abs/1502.03044)
+10. [Memory Networks] (http://arxiv.org/abs/1410.3916)
 11. [Neural Turing Machines] (http://arxiv.org/pdf/1410.5401v1.pdf)
 12. [Learning To Execute] (http://arxiv.org/abs/1410.4615)
 13. [Deep Image (the 6.0% paper)] (http://arxiv.org/abs/1501.02876)
