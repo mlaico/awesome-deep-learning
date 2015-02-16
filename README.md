@@ -13,10 +13,10 @@
 
 ### ImageNet Classification
 
-[ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
-[Deep Image (the 6.0% paper)] (http://arxiv.org/abs/1501.02876)
-[Delving Deep into Rectifiers (the 4.94% paper)] (http://arxiv-web3.library.cornell.edu/pdf/1502.01852v1.pdf)
-[Batch Normalization (the 4.8% paper)] (http://arxiv.org/abs/1502.03167)
+-  [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+-  [Deep Image (the 6.0% paper)] (http://arxiv.org/abs/1501.02876)
+-  [Delving Deep into Rectifiers (the 4.94% paper)] (http://arxiv-web3.library.cornell.edu/pdf/1502.01852v1.pdf)
+-  [Batch Normalization (the 4.8% paper)] (http://arxiv.org/abs/1502.03167)
 
 ### Unsupervised Training
 
