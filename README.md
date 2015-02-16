@@ -20,35 +20,35 @@
 
 ### Unsupervised Training
 
-[Using Very Deep Autoencoders for Content Based Image Retrieval](http://www.cs.toronto.edu/~hinton/absps/esann-deep-final.pdf)
-[Learning Deep Architectures for AI](http://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf)
-[Training tricks by YB](http://www.iro.umontreal.ca/~bengioy/papers/YB-tricks.pdf)
-
-### Image Captions
-
-[Show and Tell: A Neural Image Caption Generator] (http://arxiv.org/abs/1411.4555)
-[Show, Attend, and Tell: Neural Image Caption Generation with Visual Attention] (http://arxiv.org/abs/1502.03044)
+-  [Using Very Deep Autoencoders for Content Based Image Retrieval](http://www.cs.toronto.edu/~hinton/absps/esann-deep-final.pdf)
+-  [Learning Deep Architectures for AI](http://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf)
+-  [Training tricks by YB](http://www.iro.umontreal.ca/~bengioy/papers/YB-tricks.pdf)
 
 ### CNN
 
-[Text Understanding From Scratch] (http://arxiv.org/abs/1502.01710)
+-  [Text Understanding From Scratch] (http://arxiv.org/abs/1502.01710)
 
 ### RNN, LSTM, and MemNN
 
-[Memory Networks] (http://arxiv.org/abs/1410.3916)
-[Neural Turing Machines] (http://arxiv.org/pdf/1410.5401v1.pdf)
-[Learning To Execute] (http://arxiv.org/abs/1410.4615)
+-  [Memory Networks] (http://arxiv.org/abs/1410.3916)
+-  [Neural Turing Machines] (http://arxiv.org/pdf/1410.5401v1.pdf)
+-  [Learning To Execute] (http://arxiv.org/abs/1410.4615)
 
-### List of lists
+### Image Captions
 
-[Geoff Hinton's reading list (all papers)] (http://www.cs.toronto.edu/~hinton/deeprefs.html)
-[NIPS 2014 - accepted papers] (http://www.dlworkshop.org/accepted-papers)
-[CMU’s list of papers](http://deeplearning.cs.cmu.edu/)
+-  [Show and Tell: A Neural Image Caption Generator] (http://arxiv.org/abs/1411.4555)
+-  [Show, Attend, and Tell: Neural Image Caption Generation with Visual Attention] (http://arxiv.org/abs/1502.03044)
 
 ### Other
 
-[From Pixels to Torques] (http://arxiv.org/abs/1502.02251)
-[Evolutionary Artificial Neural Network Based on Chemical Reaction Optimization] (http://arxiv.org/abs/1502.00193)
+-  [From Pixels to Torques] (http://arxiv.org/abs/1502.02251)
+-  [Evolutionary Artificial Neural Network Based on Chemical Reaction Optimization] (http://arxiv.org/abs/1502.00193)
+
+### List of lists
+
+-  [Geoff Hinton's reading list (all papers)] (http://www.cs.toronto.edu/~hinton/deeprefs.html)
+-  [NIPS 2014 - accepted papers] (http://www.dlworkshop.org/accepted-papers)
+-  [CMU’s list of papers](http://deeplearning.cs.cmu.edu/)
 
 ## Free Online Books
 
