@@ -1,4 +1,4 @@
-### Blog Posts
+## Blog Posts
 
 1. [Ilya Sutskever: A Brief Overview of Deep Learning] (http://yyue.blogspot.ca/2015/01/a-brief-overview-of-deep-learning.html)
 2. [Tomasz Malisiewicz: From Feature Descriptors to Deep Learning] (http://quantombone.blogspot.com/2015/01/from-feature-descriptors-to-deep.html)
@@ -9,34 +9,48 @@
 7. [Andrej Karpathy: Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 8. [C3D: Generic Features for Video Analysis] (https://research.facebook.com/blog/736987489723834/c3d-generic-features-for-video-analysis)
 
+## Papers
 
-### Papers
+### ImageNet Classification
 
-## Unsupervised
+[ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+[Deep Image (the 6.0% paper)] (http://arxiv.org/abs/1501.02876)
+[Delving Deep into Rectifiers (the 4.94% paper)] (http://arxiv-web3.library.cornell.edu/pdf/1502.01852v1.pdf)
+[Batch Normalization (the 4.8% paper)] (http://arxiv.org/abs/1502.03167)
 
-1.  [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
-2.  [Using Very Deep Autoencoders for Content Based Image Retrieval](http://www.cs.toronto.edu/~hinton/absps/esann-deep-final.pdf)
-3.  [Learning Deep Architectures for AI](http://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf)
-4.  [CMU’s list of papers](http://deeplearning.cs.cmu.edu/)
-5.  [Neural Networks for Named Entity
-     Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stanford.edu/~socherr/pa4-ner.zip)
-6. [Training tricks by YB](http://www.iro.umontreal.ca/~bengioy/papers/YB-tricks.pdf)
-7. [Geoff Hinton's reading list (all papers)] (http://www.cs.toronto.edu/~hinton/deeprefs.html)
-8. [Show and Tell: A Neural Image Caption Generator] (http://arxiv.org/abs/1411.4555)
-9. [Show, Attend, and Tell: Neural Image Caption Generation with Visual Attention] (http://arxiv.org/abs/1502.03044)
-10. [Memory Networks] (http://arxiv.org/abs/1410.3916)
-11. [Neural Turing Machines] (http://arxiv.org/pdf/1410.5401v1.pdf)
-12. [Learning To Execute] (http://arxiv.org/abs/1410.4615)
-13. [Deep Image (the 6.0% paper)] (http://arxiv.org/abs/1501.02876)
-14. [Delving Deep into Rectifiers (the 4.94% paper)] (http://arxiv-web3.library.cornell.edu/pdf/1502.01852v1.pdf)
-15. [Batch Normalization (the 4.8% paper)] (http://arxiv.org/abs/1502.03167)
-16. [Text Understanding From Scratch] (http://arxiv.org/abs/1502.01710)
-17. [From Pixels to Torques] (http://arxiv.org/abs/1502.02251)
-18. [Evolutionary Artificial Neural Network Based on Chemical Reaction Optimization] (http://arxiv.org/abs/1502.00193)
-19. [NIPS 2014 - accepted papers] (http://www.dlworkshop.org/accepted-papers)
+### Unsupervised Training
 
+[Using Very Deep Autoencoders for Content Based Image Retrieval](http://www.cs.toronto.edu/~hinton/absps/esann-deep-final.pdf)
+[Learning Deep Architectures for AI](http://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf)
+[Training tricks by YB](http://www.iro.umontreal.ca/~bengioy/papers/YB-tricks.pdf)
 
-### Free Online Books
+### Image Captions
+
+[Show and Tell: A Neural Image Caption Generator] (http://arxiv.org/abs/1411.4555)
+[Show, Attend, and Tell: Neural Image Caption Generation with Visual Attention] (http://arxiv.org/abs/1502.03044)
+
+### CNN
+
+[Text Understanding From Scratch] (http://arxiv.org/abs/1502.01710)
+
+### RNN, LSTM, and MemNN
+
+[Memory Networks] (http://arxiv.org/abs/1410.3916)
+[Neural Turing Machines] (http://arxiv.org/pdf/1410.5401v1.pdf)
+[Learning To Execute] (http://arxiv.org/abs/1410.4615)
+
+### List of lists
+
+[Geoff Hinton's reading list (all papers)] (http://www.cs.toronto.edu/~hinton/deeprefs.html)
+[NIPS 2014 - accepted papers] (http://www.dlworkshop.org/accepted-papers)
+[CMU’s list of papers](http://deeplearning.cs.cmu.edu/)
+
+### Other
+
+[From Pixels to Torques] (http://arxiv.org/abs/1502.02251)
+[Evolutionary Artificial Neural Network Based on Chemical Reaction Optimization] (http://arxiv.org/abs/1502.00193)
+
+## Free Online Books
 
 1.  [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (01/01/2015)
 2.  [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by  Michael Nielsen (Dec 2014)
@@ -45,7 +59,7 @@
 5.  [An introduction to genetic algorithms](https://svn-d1.mpi-inf.mpg.de/AG1/MultiCoreLab/papers/ebook-fuzzy-mitchell-99.pdf)
 6.  [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
  
-### Courses
+## Courses
 
 1.  [Machine Learning - Stanford](https://class.coursera.org/ml-005) by Andrew Ng in Coursera (2010-2014)
 2.  [Machine Learning - Caltech](http://work.caltech.edu/lectures.html) by Yaser Abu-Mostafa (2012-2014)
@@ -57,9 +71,9 @@
 6.  [A.I - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/) by Patrick Henry Winston (2010)
 7.  [Vision and learning - computers and brains](http://web.mit.edu/course/other/i2course/www/vision_and_learning_fall_2013.html) by Shimon Ullman, Tomaso Poggio, Ethan Meyers @ MIT (2013)
 8.  [Convolutional Neural Networks for Visual Recognition - Stanford](http://vision.stanford.edu/teaching/cs231n/syllabus.html) by Fei-Fei Li, Andrej Karpathy (2015)
+5.  [Neural Networks for Named Entity Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stanford.edu/~socherr/pa4-ner.zip)
 
-
-### Videos and Lectures
+## Videos and Lectures
 
 1.  [How To Create A Mind](https://www.youtube.com/watch?v=RIkxVci-R4k) By Ray Kurzweil
 2.  [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24) By Andrew Ng
@@ -76,9 +90,7 @@
 13.  [Unsupervised Deep Learning - Stanford](http://web.stanford.edu/class/cs294a/handouts.html) by Andrew Ng in Stanford (2011)
 14.  [Natural Language Processing] (http://web.stanford.edu/class/cs224n/handouts/) By Chris Manning in Stanford
 
-
-
-### Tutorials
+## Tutorials
 
 1.  [UFLDL Tutorial 1](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 2.  [UFLDL Tutorial 2](http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/)
@@ -90,11 +102,7 @@
 8.  [Using convolutional neural nets to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
 9.  [Torch7 Tutorials](http://code.madbits.com/wiki/doku.php)
 
-
-
-
-
-### WebSites
+## WebSites
 
 1.  [deeplearning.net](http://deeplearning.net/)
 2.  [deeplearning.stanford.edu](http://deeplearning.stanford.edu/)
@@ -114,7 +122,7 @@
 16.  [nrl.navy.mil/itd/aic](http://www.nrl.navy.mil/itd/aic/)
 17.  [hips.seas.harvard.edu](http://hips.seas.harvard.edu/)
 
-### Datasets
+## Datasets
 
 1.  [MNIST](http://yann.lecun.com/exdb/mnist/) Handwritten digits
 2.  [Google House Numbers](http://ufldl.stanford.edu/housenumbers/) from street view
@@ -126,7 +134,7 @@
 8.  [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/)
 
 
-### Frameworks
+## Frameworks
 
 1.  [Caffe](http://caffe.berkeleyvision.org/)  
 2.  [Torch7](http://torch.ch/)
@@ -146,7 +154,7 @@
 15.  [OpenDL](https://github.com/guoding83128/OpenDL)
 16.  [cuDNN](https://developer.nvidia.com/cuDNN)
 
-### Miscellaneous
+## Miscellaneous
 
 1.  [Google Plus - Deep Learning Community](https://plus.google.com/communities/112866381580457264725)
 2.  [Caffe Webinar](http://on-demand-gtc.gputechconf.com/gtcnew/on-demand-gtc.php?searchByKeyword=shelhamer&amp;searchItems=&amp;sessionTopic=&amp;sessionEvent=4&amp;sessionYear=2014&amp;sessionFormat=&amp;submit=&amp;select=+)
@@ -166,7 +174,7 @@
 16. [Reproducing the results of "Playing Atari with Deep Reinforcement Learning" by DeepMind] (https://github.com/kristjankorjus/Replicating-DeepMind)
 17. [Torch vs. Theano] (http://fastml.com/torch-vs-theano/)
 
-### Not Really 'Deep' Learning
+## Not Really 'Deep' Learning
 
 1. [Image Kernels Explained Visually] (http://setosa.io/ev/image-kernels/)
 2. [Explained Visually] (http://setosa.io/ev/)
@@ -174,5 +182,5 @@
  
 
 -----
-### Contributing
+## Contributing
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/mlaico/awesome-deep-learning/pulls). 
