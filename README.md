@@ -7,9 +7,12 @@
 5. [Andrej Karpathy: What I Learned From Competing Against A ConvNet On ImageNet] (http://karpathy.github.io/2014/09/02/what-i-learned-from-competing-against-a-convnet-on-imagenet/)
 6. [Andrej Karpathy: On surpassing human-level performance on ImageNet] (https://plus.google.com/+AndrejKarpathy/posts/dwDNcBuWTWf)
 7. [Andrej Karpathy: Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+8. [C3D: Generic Features for Video Analysis] (https://research.facebook.com/blog/736987489723834/c3d-generic-features-for-video-analysis)
 
 
 ### Papers
+
+## Unsupervised
 
 1.  [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 2.  [Using Very Deep Autoencoders for Content Based Image Retrieval](http://www.cs.toronto.edu/~hinton/absps/esann-deep-final.pdf)
@@ -30,6 +33,7 @@
 16. [Text Understanding From Scratch] (http://arxiv.org/abs/1502.01710)
 17. [From Pixels to Torques] (http://arxiv.org/abs/1502.02251)
 18. [Evolutionary Artificial Neural Network Based on Chemical Reaction Optimization] (http://arxiv.org/abs/1502.00193)
+19. [NIPS 2014 - accepted papers] (http://www.dlworkshop.org/accepted-papers)
 
 
 ### Free Online Books
@@ -160,6 +164,7 @@
 14. [Implementing a Distributed Deep Learning Network over Spark](http://www.datasciencecentral.com/profiles/blogs/implementing-a-distributed-deep-learning-network-over-spark)
 15. [A chess AI that learns to play chess using deep learning.](https://github.com/erikbern/deep-pink)
 16. [Reproducing the results of "Playing Atari with Deep Reinforcement Learning" by DeepMind] (https://github.com/kristjankorjus/Replicating-DeepMind)
+17. [Torch vs. Theano] (http://fastml.com/torch-vs-theano/)
 
 ### Not Really 'Deep' Learning
 
