@@ -23,16 +23,21 @@
 -  [Using Very Deep Autoencoders for Content Based Image Retrieval](http://www.cs.toronto.edu/~hinton/absps/esann-deep-final.pdf)
 -  [Learning Deep Architectures for AI](http://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf)
 -  [Training tricks by YB](http://www.iro.umontreal.ca/~bengioy/papers/YB-tricks.pdf)
+-  [Unsupervised Learning of Video Representations using LSTMs](http://arxiv.org/abs/1502.04681)
 
 ### CNN
 
 -  [Text Understanding From Scratch] (http://arxiv.org/abs/1502.01710)
+-  [DeViSE: A Deep Visual-Semantic Embedding Model] (http://research.google.com/pubs/pub41473.html)
 
 ### RNN, LSTM, and MemNN
 
 -  [Memory Networks] (http://arxiv.org/abs/1410.3916)
--  [Neural Turing Machines] (http://arxiv.org/pdf/1410.5401v1.pdf)
+-  [Neural Turing Machines] (http://arxiv.org/abs/1410.5401v1)
 -  [Learning To Execute] (http://arxiv.org/abs/1410.4615)
+-  [DRAW: A Recurrent Neural Network For Image Generation](http://arxiv.org/abs/1502.04623v1) 
+-  [Unsupervised Learning of Video Representations using LSTMs](http://arxiv.org/abs/1502.04681)
+-  [Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks](http://arxiv.org/abs/1502.05698v1)
 
 ### Image Captions
 
@@ -43,6 +48,9 @@
 
 -  [From Pixels to Torques] (http://arxiv.org/abs/1502.02251)
 -  [Evolutionary Artificial Neural Network Based on Chemical Reaction Optimization] (http://arxiv.org/abs/1502.00193)
+-  [Collaborative Feature Learning] (http://arxiv.org/pdf/1502.01423v1.pdf)
+-  [Abstract Learning via Demodulation in a Deep Neural Network] (http://arxiv.org/abs/1502.04042v1)
+- [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](http://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf)
 
 ### List of lists
 
@@ -89,6 +97,8 @@
 12.  [The wonderful and terrifying implications of computers that can learn](http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn) By Jeremy Howard at TEDxBrussels
 13.  [Unsupervised Deep Learning - Stanford](http://web.stanford.edu/class/cs294a/handouts.html) by Andrew Ng in Stanford (2011)
 14.  [Natural Language Processing] (http://web.stanford.edu/class/cs224n/handouts/) By Chris Manning in Stanford
+15.  [Google's Large Scale Deep Neural Networks Project](http://youtu.be/KELYHjq9Gbs)
+16.  [Automated Image Captioning with ConvNets and Recurrent Nets](https://www.youtube.com/watch?v=xKt21ucdBY0)
 
 ## Tutorials
 
